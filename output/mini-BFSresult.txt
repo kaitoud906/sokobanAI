@@ -1,0 +1,280 @@
+Level 1
+Moves: u u l u u r l d d r r u r r u u l l d d u l l d d r r l d d r r u u l u r 
+Number of states have been reached: 178
+Number of states have been visited: 172
+Number of duplicated states: 210
+Time for searching: 0.048191700000000004
+*****************************************************
+Level 2
+Moves: r r u u l l l u u r l d d r r u r r u u l l d d u l l d d r r u r r r d d l l d l l u d r r u u l u u l l d d r r u r d 
+Number of states have been reached: 667
+Number of states have been visited: 647
+Number of duplicated states: 742
+Time for searching: 0.27586109999999997
+*****************************************************
+Level 3
+Moves: r r u u l l l u u r l d d r r r d d l l u d r r u u u r r d d l r u u l u u l l d l l d d r d d r r u u d d l l u u r l l u u r r d r d l 
+Number of states have been reached: 1054
+Number of states have been visited: 1033
+Number of duplicated states: 1124
+Time for searching: 0.5007349999999999
+*****************************************************
+Level 4
+Moves: u u u u r r l d l d d r r r u u r u u l d d d u u l l d l d d r r d r r u l l l r r u u u l l d l d d l d d r u u u d r r r u u u l l l l d r 
+Number of states have been reached: 406
+Number of states have been visited: 406
+Number of duplicated states: 613
+Time for searching: 0.15112589999999992
+*****************************************************
+Level 5
+Moves: u u u r u r l d l d d r r r u u r u u l d d d u u l l d l l u r r r l d l d d r r d r r u l l l r r u u r u u l d d d u u l l d l d d l d d r u u u d r r d r r u l l l r r u u u l l l l d r d d l d d r u u u 
+Number of states have been reached: 3204
+Number of states have been visited: 3194
+Number of duplicated states: 4651
+Time for searching: 3.3387377999999996
+*****************************************************
+Level 6
+Moves: l u r u u r u r l d l d d r r d r r u l l l r r u u r u u l d d d u u l l d l l u r r r l d l d d l d d r u u u d r r d r r u l l l r r u u r u u l d l l l l d r d d l d d r u u u d r r r u u r u l 
+Number of states have been reached: 11961
+Number of states have been visited: 11876
+Number of duplicated states: 16658
+Time for searching: 33.1510182
+*****************************************************
+Level 7
+Moves: l u l l u r r r l l u u r r d r d l l r u u l l d d l d r u r d d r r u r u l l l r u u l l d d r d l r d r r d d l l u u 
+Number of states have been reached: 1998
+Number of states have been visited: 1988
+Number of duplicated states: 2673
+Time for searching: 1.4598714999999984
+*****************************************************
+Level 8
+Moves: l u u r r d d l l u l l u r r r l l u u r r d r d l l d d r r u r u l l u u l l d d l d r u u u r r d d l r u u l l d d r r r d d l l d d r r u u u r u l l l d l u d r d r r d d l l u u 
+Number of states have been reached: 6399
+Number of states have been visited: 6333
+Number of duplicated states: 8028
+Time for searching: 10.3451825
+*****************************************************
+Level 9
+Moves: r d d l l u l u r u u l l d u r r d d d d r r u u l r d d l l l d l l u u u r u u r r d d d u r r d d l l u u u u l l d d r l u u r r d d d u l l l d d d r r u r u u l d 
+Number of states have been reached: 937
+Number of states have been visited: 928
+Number of duplicated states: 1115
+Time for searching: 0.6235278000000051
+*****************************************************
+Level 10
+Moves: r d d l l u l u r l l l d d d r r u r u u u u l l d u r r d d d d r r u u l r d d l l l d l l u u u r u u r r d d d u u u l l d d r l l d d d r r u u d d l l u u u r u u r r d d r r d d l l r r u u l l d 
+Number of states have been reached: 2334
+Number of states have been visited: 2328
+Number of duplicated states: 2646
+Time for searching: 1.8196202000000028
+*****************************************************
+Level 11
+Moves: d l u l l r d d l l u u u d l l u u r u r r d r r d u l l u l l d r r l d d r r d r r u l l l r d d l l u u u d l l u u r u r r d l d d r r r u u l 
+Number of states have been reached: 2394
+Number of states have been visited: 2394
+Number of duplicated states: 3217
+Time for searching: 1.6211680000000044
+*****************************************************
+Level 12
+Moves: d l u l l l d d r r u d l l u u u u l l d d r l u u r r r r r d d l d d l l u u u d l l u u r r r l d d d d r r u u l r d d l l u u u d l l u u r u r r d l d d r r r u u l r d d r d l u l l l d d r r u d l l u u r r d r u u 
+Number of states have been reached: 10983
+Number of states have been visited: 10960
+Number of duplicated states: 14177
+Time for searching: 24.631816099999995
+*****************************************************
+Level 13
+Moves: r r u u r r d d d r d l l l u u l l u u r r d d d d l d l u u u r r u u l l d l d r r r u u r u r d d d d r d l l l l d l u u d r r u u l l u u r r r r d d l l 
+Number of states have been reached: 5146
+Number of states have been visited: 5122
+Number of duplicated states: 7183
+Time for searching: 6.6854242
+*****************************************************
+Level 14
+Moves: r r r r d d l l u u u u r r d d l l l l u u r r d d d d l d l u u u r r u u l l d l d r u u r r d d r r d r d l l l l d l u u u r r u u l l d l d r r l u u r r r u r d d d d r d l l l l d l u u d r r u u l l u u r r r r d d l l r r u u l l d 
+Number of states have been reached: 28740
+Number of states have been visited: 28710
+Number of duplicated states: 39217
+Time for searching: 348.7216768
+*****************************************************
+Level 15
+Moves: u u l u r r d l d d r r u r r d l l l d l u u u r u r u r d d u l l d l d d r r r r u l u u l l d l l u r r r u r d d d r d l l l d l u u d r r r u u u l l l l d r 
+Number of states have been reached: 2017
+Number of states have been visited: 2016
+Number of duplicated states: 2905
+Time for searching: 2.435149899999999
+*****************************************************
+Level 16
+Moves: r r u r r d l l l d l l u r u u r u r u r d d d l d l r u r r d l l u r u u l l d l d d u u l u r r r u r d d d l d l d l u u d r r u r u u l l l l d r u r r r d d r d l l l d l u u u l u r r r u r d d u l l l d d d r r r r u l 
+Number of states have been reached: 4073
+Number of states have been visited: 4072
+Number of duplicated states: 5654
+Time for searching: 7.814274599999976
+*****************************************************
+Level 17
+Moves: l d l l l d l d d r u r u d l l u r u r l d d r u r u d l l u r u r r d l u l d u r u r u r r d d l l d l d l u l d u r u r d r u 
+Number of states have been reached: 2136
+Number of states have been visited: 2081
+Number of duplicated states: 3152
+Time for searching: 3.209818299999995
+*****************************************************
+Level 18
+Moves: l l l d l d l d d r u r u r u d l d l l u r u r u r r r l l l d l d d r u r u d l l u r u r r d l u l d r d l u l d u r u r u r u r r d r d d l u l l u l d r d l u u r u r r d r d l l r u u l l d l d d r u d l d l l u r 
+Number of states have been reached: 9072
+Number of states have been visited: 9035
+Number of duplicated states: 13084
+Time for searching: 30.931092199999966
+*****************************************************
+Level 19
+Moves: l l u u u r u l d d d d l l u r d r u u u l l u u r d l d r u r d d d l d r r u l u u r r u l l d l l u u r d l d r u r d d d r d l r d r r u l 
+Number of states have been reached: 2830
+Number of states have been visited: 2815
+Number of duplicated states: 4465
+Time for searching: 2.226372700000013
+*****************************************************
+Level 20
+Moves: l l u u u r u l d d d d l l u r d r u u u l l u u r d l d r u r d r r u l l d d d l d r r d r r u l u l l d l l u r d r r l u u u l l u u r d l d r u r d d d r d l u u u r r u l l d l l u u r d l d r u r d d d r d d r r u l 
+Number of states have been reached: 10273
+Number of states have been visited: 10246
+Number of duplicated states: 15677
+Time for searching: 22.232571099999973
+*****************************************************
+Level 21
+Moves: r r u u u r u l d l l u u r d l d r u r d d d l d l l u r r d d r r u l u u u r u l d l l u u r d l d r u r d d d d l d r u u l l l d r u r d 
+Number of states have been reached: 2563
+Number of states have been visited: 2556
+Number of duplicated states: 4008
+Time for searching: 1.8779678999999874
+*****************************************************
+Level 22
+Moves: r r u u u r u l l u l l d r d r l u u r d r d d d l d l l u r r d d r r u l u u u r u l l u l l d r d r l u u r d r d d d d l u r u u u l l d r u r d d d l d d r u u l l l d r u r d u r u u r u l l 
+Number of states have been reached: 5131
+Number of states have been visited: 5104
+Number of duplicated states: 7771
+Time for searching: 5.8035816000000295
+*****************************************************
+Level 23
+Moves: u u u l l d l u l l d d r u l u r r r r r r u r d d d d l l d d r r u r u l d d l l u u l l l u u l u r r r r r u r d d d d l l d d r r u r u l l r u u u l l d d d d u u u u l l d l d d r r d r u u 
+Number of states have been reached: 8639
+Number of states have been visited: 8630
+Number of duplicated states: 12884
+Time for searching: 21.04789999999997
+*****************************************************
+Level 24
+Moves: u u u l l d l u r r r d d d l l l u d r r r u u u l l l l l d d r u l u r r r d l u r r r r u r d d d d l l d d r r u r u l l r d d l l u u l l l u l u l u r r r r r r u r d d d d l l d d r r u r u l d d l l u u l l l u u l u r r r r r u r d d d d l l d d r r u r u l u u u l l d d d d u u u u l l d l d d r r d r u u d l l l u u u r r r r r d d d l l l 
+Number of states have been reached: 56915
+Number of states have been visited: 56896
+Number of duplicated states: 82689
+Time for searching: 1642.5203519000002
+*****************************************************
+Level 25
+Moves: u u l l d d u u r r d d d l l l d l l u r u u r l d d r r r d r u u u r u u l d l l d d u u r r d d d r d d l u u u u r u l d d d l l u u l l d d r r r d r u u u 
+Number of states have been reached: 3474
+Number of states have been visited: 3447
+Number of duplicated states: 4913
+Time for searching: 3.2900838999998996
+*****************************************************
+Level 26
+Moves: d l l l d l l u r r r r d r u u u r u u l d l l d d u u r r d d d r d d l u u l l l d l l u r u u r l d d r r r d r r u l u u r u u l d l l d u r r d d d r d d l u u u u r u l d d d l l l d l l u r r r r d r u u u d d l l l l u u r r d u l l d d r r r d r r u l l l 
+Number of states have been reached: 18522
+Number of states have been visited: 18431
+Number of duplicated states: 25297
+Time for searching: 125.12952240000004
+*****************************************************
+Level 27
+Moves: u r u u l u l l d d u u r r d r d d d l d l l l u u r r d r r u u u r u l l l u l d d d u u r r d r d d d l l u r d r u u d d l d l l l u u r u u u r r r r d l u l l l d d d r r d r u u u r u l l l u l d d 
+Number of states have been reached: 3555
+Number of states have been visited: 3542
+Number of duplicated states: 5171
+Time for searching: 3.6319541999996545
+*****************************************************
+Level 28
+Moves: r r u l u u l u l l d d u u r r d r d d d l l u r d d l l l u u r u u u r r d r d d r d l l d l l l u u r r r l l u u u r r d r r u l l l u l d d d u u r r d r d d l d d l l l u u r u u u r r d r d d r d l u u u u l l l d d d r r l l l d d r r r u r u u d d l d l l l u u r u u u r r r r d l u l l l d d d r r d r u u u r u l l l u l d d u r r r d d d d l d l u d l l u u r r r 
+Number of states have been reached: 13905
+Number of states have been visited: 13870
+Number of duplicated states: 19557
+Time for searching: 46.3071673999998
+*****************************************************
+Level 29
+Moves: l l u u r u u u l l d d l d d r l u u r r d r u u d d r d d l l u u d l l u u r r l u u r r d d u r r u u l d r d l 
+Number of states have been reached: 2475
+Number of states have been visited: 2387
+Number of duplicated states: 3296
+Time for searching: 1.7171363000002202
+*****************************************************
+Level 30
+Moves: l l u u d d r r u u l u u u l l d d r d r r d d l l u u r u u r u l l u l l d r d d l d d r l u u r u u r r d r r u l l l u l d r r d d d r d d l l u l l u u r r d r u u r u l l u l l d r r r d d d r d d l l u u d l l u u r r d r u u r r u u l d r d l u l l u l l d r r r d d l l u d r r u r r u u l d r d l u l l u l l d r r r r u r d 
+Number of states have been reached: 18951
+Number of states have been visited: 18936
+Number of duplicated states: 25647
+Time for searching: 91.79683150000028
+*****************************************************
+Level 31
+Moves: l u l u u r r d r d r d l u u l u l l d d d d d r r r u u l l u l u u r r d r d r d l d d l l l u u u d d d r r r u u l l u l d r r r u u l u l l d 
+Number of states have been reached: 550
+Number of states have been visited: 546
+Number of duplicated states: 617
+Time for searching: 0.3128514999998515
+*****************************************************
+Level 32
+Moves: l u u r r d r d l u u l l d d d d r r u u l r d d l l u u u l u u r d r r d r d l d d l l u u u l u r d d d d r r u u l r d d l l u u u l u u r d d d r r u u l r d d l l u l u u r d 
+Number of states have been reached: 706
+Number of states have been visited: 706
+Number of duplicated states: 878
+Time for searching: 0.45697629999995115
+*****************************************************
+Level 33
+Moves: l u l u u r d l d d r r r u r u u l d l l u l d d l d d r u r u d r r u r u u l d l l d d r r u d l l u u r r d d l l l l u r d r r r u u l l u l d d l d d r u r u d l l u r u r l d d r u 
+Number of states have been reached: 3296
+Number of states have been visited: 3123
+Number of duplicated states: 4345
+Time for searching: 3.4695264999995743
+*****************************************************
+Level 34
+Moves: r u r u u l d r d d l l l u l u u r d r r u r d d r d d l u l u d l l u l u u r d r r d d l l u d r r u u l l d d r r r r u l d l l l u u r r u r d d u l l l d l l u r d r d r r u r u l d r r d d l u u 
+Number of states have been reached: 4547
+Number of states have been visited: 4408
+Number of duplicated states: 6219
+Time for searching: 6.482249300000149
+*****************************************************
+Level 35
+Moves: d l l u l u u r d l l l d d d r r u r r r u u l l l r r r d d l l l u d r r r u u l l d l d r u u u l d r d d l d l l u u u r r u r d d u l l l d d d r r u u d d l l u u u r r 
+Number of states have been reached: 770
+Number of states have been visited: 765
+Number of duplicated states: 860
+Time for searching: 0.3974188999995931
+*****************************************************
+Level 36
+Moves: d l l d l u u u l l u u r r d r d l d d r r r u u l l d l d r u u u l d u u l l d d r r d r d d l u u u l l u u r r d r d d u u l u l l d d r r 
+Number of states have been reached: 1982
+Number of states have been visited: 1951
+Number of duplicated states: 2387
+Time for searching: 1.1601881999999932
+*****************************************************
+Level 37
+Moves: d l l u u l l d d r l u u r r d d r r u u l l d d l l u u r u r d d u r r d d l l u u u u r d l d d d r r u u l r d d l l u u d d r d d l u u r r u u l l l l d d r r l l u u r r d u r u u l d 
+Number of states have been reached: 2352
+Number of states have been visited: 2352
+Number of duplicated states: 3017
+Time for searching: 1.706941899999947
+*****************************************************
+Level 38
+Moves: d r r r u r u l l d r d l l d l l u r u r r d l u r u u l d d u r r r d l d l u l l d r l l d d r u 
+Number of states have been reached: 2671
+Number of states have been visited: 2578
+Number of duplicated states: 3781
+Time for searching: 1.7643379999999524
+*****************************************************
+Level 39
+Moves: d d r r u u u d d d l l u u r l u u r u r r d l d d l l u u r u r d l l d d d d r r r r u u l l l r r r d d l l l l u u r r d u r r d d l l l d l u r r u u l l u l u r r u r r d l d d l l u u r u r d 
+Number of states have been reached: 7751
+Number of states have been visited: 7693
+Number of duplicated states: 9902
+Time for searching: 11.138101000000006
+*****************************************************
+Level 40
+Moves: d r r u d l l u r u r d d l l d d r r u r r u u l l u l d l d d d r r u u l r d r r u u l l u u r d l l d r d d r r u u l r d d l l u u l l d r u r r r d d l l d l l u 
+Number of states have been reached: 2374
+Number of states have been visited: 2372
+Number of duplicated states: 2989
+Time for searching: 1.8732882999997855
+*****************************************************
